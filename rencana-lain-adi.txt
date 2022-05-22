@@ -1,7 +1,12 @@
 RENCANA LAIN
 - Freelance
-* Fiver
+  * Fiver
+   - web crud sederhana
+   - web personal dan company
 * Upwork
 - Kuliah
 - Membuka Usaha
 - Jadi trader atau investor saham
+
+
+
