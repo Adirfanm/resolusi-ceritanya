@@ -1,7 +1,10 @@
 RENCANA LAIN
 - Freelance
-* Fiver
-* Upwork
+  * Fiver
+    - desain web
+    - web personal dan company
+  * Upwork
 - Kuliah
 - Membuka Usaha
 - Jadi trader atau investor saham
+- belajar uiux
